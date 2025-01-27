@@ -11,6 +11,6 @@ function generateResponse(input) {
     } else if (input.toLowerCase().includes('how are you')) {
         return 'I am just a simple AI, but I am functioning as expected!';
     } else {
-        return 'I am not sure how to respond to that.';
+        return 'Hi Bruno! Stop Pestering me!';
     }
 }
